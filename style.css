@@ -16,7 +16,7 @@ body
 {
    font-family: Segoe UI Light, Arial, Helvetica;
    font-size: 1.1em;
-   background-color: #000;
+   <!-- background-color: #000; -->
    color: #ddd;
    background-image: url(images/asteroid_bg.jpg);
    background-repeat: no-repeat;
