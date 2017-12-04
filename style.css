@@ -38,15 +38,7 @@ canvas
    padding-top: 12px;
    text-align: center;
 }
-.info
-{
-   text-align: left;
-   display: inline-block;
-   vertical-align: top;
-   margin-left: 0.5em;
-   width: 400px;
-   margin: auto; 
-}
+
 .infopanel
 {
    max-width: 22em;
